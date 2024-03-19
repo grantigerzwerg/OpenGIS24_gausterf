@@ -1,0 +1,1700 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-03-19T13:09:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124434537",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1010",
+        "addr:street": "Burgring",
+        "amenity": "cafe",
+        "building": "commercial",
+        "building:levels": "1",
+        "cuisine": "regional",
+        "name": "Volksgarten Pavillon",
+        "opening_hours": "Apr 01-Oct 15 Mo-Su 10:00-02:00 \"only open on sunny days\"",
+        "phone": "+ 43 1 532 09 07",
+        "smoking": "outside",
+        "website": "https://www.volksgarten-pavillon.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.3614421,
+              48.2069433
+            ],
+            [
+              16.3615256,
+              48.2068832
+            ],
+            [
+              16.3615841,
+              48.2069181
+            ],
+            [
+              16.3616191,
+              48.2069045
+            ],
+            [
+              16.361651,
+              48.2069231
+            ],
+            [
+              16.3616332,
+              48.2069479
+            ],
+            [
+              16.3617288,
+              48.2070034
+            ],
+            [
+              16.3617242,
+              48.2070066
+            ],
+            [
+              16.3616457,
+              48.207065
+            ],
+            [
+              16.3614556,
+              48.2069512
+            ],
+            [
+              16.3614421,
+              48.2069433
+            ]
+          ]
+        ]
+      },
+      "id": "way/124434537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407676238",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea;sushi",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "no",
+        "level": "-1",
+        "name": "Mr. Box Tea",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+43 699 13186666",
+        "room": "restaurant",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.3618728,
+              48.2138108
+            ],
+            [
+              16.361904,
+              48.2137809
+            ],
+            [
+              16.3619816,
+              48.213817
+            ],
+            [
+              16.3619504,
+              48.2138468
+            ],
+            [
+              16.3618728,
+              48.2138108
+            ]
+          ]
+        ]
+      },
+      "id": "way/407676238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407676240",
+        "amenity": "cafe",
+        "indoor": "room",
+        "indoor_seating": "no",
+        "level": "-1",
+        "name": "Cafe Sandwich Donuts",
+        "outdoor_seating": "no",
+        "room": "restaurant",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.3620744,
+              48.2143154
+            ],
+            [
+              16.3621185,
+              48.2143277
+            ],
+            [
+              16.3620819,
+              48.2143861
+            ],
+            [
+              16.3620336,
+              48.2143726
+            ],
+            [
+              16.3620744,
+              48.2143154
+            ]
+          ]
+        ]
+      },
+      "id": "way/407676240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407676243",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1010",
+        "addr:street": "Schottenpassage",
+        "amenity": "cafe",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "-1",
+        "name": "Kaffeküche",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "outdoor_seating": "no",
+        "room": "restaurant",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.3619504,
+              48.2138468
+            ],
+            [
+              16.3619816,
+              48.213817
+            ],
+            [
+              16.3620282,
+              48.2138114
+            ],
+            [
+              16.3620569,
+              48.2138527
+            ],
+            [
+              16.3620006,
+              48.2138701
+            ],
+            [
+              16.3619504,
+              48.2138468
+            ]
+          ]
+        ]
+      },
+      "id": "way/407676243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/128183897",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1090",
+        "addr:street": "Sensengasse",
+        "amenity": "cafe",
+        "name": "1st.INDEBAR",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3521712,
+          48.2193243
+        ]
+      },
+      "id": "node/128183897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/244522889",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1080",
+        "addr:street": "Josefstädter Straße",
+        "amenity": "cafe",
+        "contact:email": "office@cafe-eiles.at",
+        "contact:phone": "+43 1 405 3410",
+        "contact:website": "http://www.cafe-eiles.at",
+        "cuisine": "cake;breakfast;austrian;coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Freewave",
+        "name": "Café Eiles",
+        "name:ru": "Кафе Eiles",
+        "opening_hours": "Mo-Fr 07:00-24:00; PH,Sa,Su 08:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+4314053410",
+        "smoking": "outside",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.cafe-eiles.at/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Barrierfreier Zugang über Nebeneingang in Lenaugasse",
+        "wikidata": "Q15108546",
+        "wikipedia": "de:Café Eiles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3548608,
+          48.2093012
+        ]
+      },
+      "id": "node/244522889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317767352",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "email": "office@cafestein.at",
+        "indoor_seating": "yes",
+        "man_made": "surveillance",
+        "name": "Cafe Stein",
+        "opening_hours": "Mo-We 08:00-12:00; Th-Sa 08:00-01:00; Su 09:00-12:00",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 319 72 41",
+        "smoking": "separated",
+        "surveillance": "indoor",
+        "website": "https://www.cafestein.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3612193,
+          48.2155314
+        ]
+      },
+      "id": "node/317767352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318023658",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Cafeteria Maximilian",
+        "opening_hours": "Mo-Sa 08:30-23:00; Su 09:00-23:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3580946,
+          48.2145962
+        ]
+      },
+      "id": "node/318023658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318297340",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "1010",
+        "addr:street": "Landesgerichtsstraße",
+        "amenity": "cafe",
+        "check_date": "2023-04-16",
+        "contact:email": "cafe.bendl@gmail.com",
+        "contact:phone": "+43 1 8904105",
+        "contact:website": "https://bendl.wordpress.com/",
+        "internet_access": "no",
+        "name": "Café Bendl",
+        "opening_hours": "Mo-Th 08:00-02:00; Fr 08:00-04:00; Sa 18:00-04:00; Su 18:00-02:00",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3554887,
+          48.2096822
+        ]
+      },
+      "id": "node/318297340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339910920",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1010",
+        "addr:street": "Universitätsring",
+        "amenity": "cafe",
+        "check_date": "2022-09-10",
+        "cuisine": "coffee_shop;cake;tea;bistro",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "cafe@landtmann.at",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Café Landtmann",
+        "opening_hours": "Mo-Su 07:30-24:00",
+        "operator": "Familie Querfeld",
+        "outdoor_seating": "yes",
+        "phone": "+43124100120",
+        "smoking": "no",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.landtmann.at/",
+        "wheelchair": "yes",
+        "wikidata": "Q264318",
+        "wikipedia": "de:Café Landtmann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3614497,
+          48.2115624
+        ]
+      },
+      "id": "node/339910920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/349242464",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1010",
+        "addr:street": "Rathausplatz",
+        "amenity": "cafe",
+        "email": "rathausplatz@sluka.at",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Conditorei Sluka",
+        "name:etymology": "Wilhelm Josef Sluka",
+        "name:etymology:wikidata": "Q60822451",
+        "opening_hours": "Mo-Fr 08:00-19:00;Sa 08:00-17:30;Su 10:00-17:30",
+        "phone": "+43 1 4057172",
+        "shop": "pastry",
+        "smoking": "no",
+        "start_date": "1891",
+        "website": "https://www.sluka.at/",
+        "wheelchair": "no",
+        "wikidata": "Q2573421",
+        "wikipedia": "de:Wilhelm J. Sluka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3576889,
+          48.2094529
+        ]
+      },
+      "id": "node/349242464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440396315",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1010",
+        "addr:street": "Schottengasse",
+        "amenity": "cafe",
+        "check_date": "2023-08-20",
+        "contact:email": "schottenstift@diglas.at",
+        "contact:phone": "+43 1 535 15 50",
+        "contact:website": "http://cafeimschottenstift.at",
+        "indoor_seating": "yes",
+        "level": "1-2",
+        "lunch:menu": "Mo-Fr",
+        "name": "Cafe Diglas im Schottenstift",
+        "opening_hours": "08:00-22:00",
+        "outdoor_seating": "garden",
+        "website:menu": "https://cafeimschottenstift.at/wp-content/uploads/2023/03/20230316131946.pdf",
+        "wheelchair": "limited",
+        "wheelchair:description": "Zugang rollstuhl gerecht (doppelflügige Türe) auf der Rückseite des Hauses. vorne hohe Stufe. leider wc über Stiege im ersten Stock unerreichbar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3639968,
+          48.2126214
+        ]
+      },
+      "id": "node/440396315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441696299",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "1090",
+        "addr:street": "Schwarzspanierstraße",
+        "amenity": "cafe",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "office@weltcafe.at",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Weltcafé",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 09:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 4053741",
+        "smoking": "no",
+        "website": "https://www.weltcafe.at/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Barierefreies WC, Rollstuhl- WC vorhanden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3571268,
+          48.21664
+        ]
+      },
+      "id": "node/441696299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566992020",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1090",
+        "addr:street": "Universitätsstraße",
+        "amenity": "cafe",
+        "name": "Cafe Latte-Art",
+        "opening_hours": "Mo-Fr 08:30-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3576674,
+          48.214653
+        ]
+      },
+      "id": "node/566992020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619522966",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1090",
+        "addr:street": "Kolingasse",
+        "amenity": "cafe",
+        "brand": "aïda",
+        "brand:wikidata": "Q794636",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "aïda",
+        "opening_hours": "Mo-Sa 09:00-17:30",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3616321,
+          48.2151404
+        ]
+      },
+      "id": "node/619522966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619522967",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Roth",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3597652,
+          48.216432
+        ]
+      },
+      "id": "node/619522967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1009032977",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "1010",
+        "addr:street": "Freyung",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Splendid bar Italia",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3643767,
+          48.2120734
+        ]
+      },
+      "id": "node/1009032977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1372123916",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "33",
+        "addr:postcode": "1090",
+        "addr:street": "Spitalgasse",
+        "amenity": "cafe",
+        "email": "office@ritz.cc",
+        "indoor_seating": "yes",
+        "name": "Bäckerei & Kaffeekonditorei Ritz",
+        "opening_hours": "Mo-Fr 06:00-18:30, Sa 06:00-13:00, Su 07:00-11:00",
+        "operator": "Ritz",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "website": "http://www.baeckereiritz.at",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.352976,
+          48.2220413
+        ]
+      },
+      "id": "node/1372123916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1377399037",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "1090",
+        "addr:street": "Nussdorfer Straße",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Cafe Nuss",
+        "opening_hours": "Mo-Fr 07:00-00:00; Sa-Su 08:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 47 00 575",
+        "website": "http://www.cafenuss.com",
+        "wheelchair": "yes",
+        "wheelchair:description": "Im Schanigarten zwei hohe Stufen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3535129,
+          48.2233619
+        ]
+      },
+      "id": "node/1377399037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1382931199",
+        "amenity": "cafe",
+        "brand": "aïda",
+        "brand:wikidata": "Q794636",
+        "brand:wikipedia": "de:Aida (Unternehmen)",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "aïda",
+        "opening_hours": "Mo-Sa 08:00-19:00; PH,Su 09:00-18:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3530652,
+          48.2222621
+        ]
+      },
+      "id": "node/1382931199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386222423",
+        "addr:city": "Wien",
+        "addr:housenumber": "68",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Café Weimar",
+        "opening_hours": "Su 09:00-23:30; Mo-Sa 08:00-23:30",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 3171206",
+        "smoking": "separated",
+        "start_date": "1900",
+        "toilets:wheelchair": "yes",
+        "website": "http://cafeweimar.at",
+        "wheelchair": "yes",
+        "wikidata": "Q17521836",
+        "wikipedia": "de:Café Weimar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3517589,
+          48.2234113
+        ]
+      },
+      "id": "node/1386222423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1640415242",
+        "addr:housenumber": "18",
+        "addr:postcode": "1090",
+        "addr:street": "Garnisongasse",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "office@caffecouture.com",
+        "name": "Caffè Couture",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "phone": "+436763322076",
+        "source": "http://www.restauranttester.at/caffe-couture.html",
+        "toilets:wheelchair": "no",
+        "website": "https://www.caffecouture.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3565852,
+          48.2171106
+        ]
+      },
+      "id": "node/1640415242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1687419177",
+        "addr:housenumber": "12",
+        "addr:street": "Servitengasse",
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "name": "Bürger",
+        "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:00-13:00",
+        "phone": "+43 1 3157080",
+        "website": "https://cafekonditoreibuerger.squarespace.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3644225,
+          48.2206493
+        ]
+      },
+      "id": "node/1687419177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692181459",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "1090",
+        "addr:street": "Berggasse",
+        "amenity": "cafe",
+        "name": "BrötchenWelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3649096,
+          48.2191427
+        ]
+      },
+      "id": "node/1692181459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1701681976",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Moccati",
+        "outdoor_seating": "yes",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3610155,
+          48.2225115
+        ]
+      },
+      "id": "node/1701681976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708782952",
+        "addr:housenumber": "15",
+        "addr:street": "Liechtensteinstraße",
+        "amenity": "cafe",
+        "check_date": "2024-03-08",
+        "contact:website": "https://www.kafede.at",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Kafe‘de.",
+        "opening_hours": "Mo-Fr 09:00-21:30; Sa 10:00-21:30",
+        "outdoor_seating": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3618479,
+          48.2176907
+        ]
+      },
+      "id": "node/1708782952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708783934",
+        "amenity": "cafe",
+        "name": "Tea-Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.360488,
+          48.2197821
+        ]
+      },
+      "id": "node/1708783934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822949326",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Cafe Glaser",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3617314,
+          48.2150072
+        ]
+      },
+      "id": "node/1822949326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1917166455",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1010",
+        "addr:street": "Schottengasse",
+        "amenity": "cafe",
+        "coffee": "no",
+        "description": "juice bar",
+        "drink:juice": "served",
+        "name": "Juice factory",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa,Su 08:00-17:00",
+        "source": "http://www.juicefactory.at",
+        "website": "https://www.juicefactory.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3635435,
+          48.2132141
+        ]
+      },
+      "id": "node/1917166455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2122487551",
+        "amenity": "cafe",
+        "name": "Cafe Rathaus",
+        "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su 08:00-22:00",
+        "website": "caferathaus.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3549883,
+          48.2098183
+        ]
+      },
+      "id": "node/2122487551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2178843142",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "salut@cafefrancais.at",
+        "indoor_seating": "yes",
+        "name": "Café Français",
+        "opening_hours": "Mo-Sa 09:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 3190903",
+        "website": "http://www.cafefrancais.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3609701,
+          48.2157817
+        ]
+      },
+      "id": "node/2178843142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2373571210",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sommer-Camp im Salettl am Campus",
+        "opening_hours": "PH,Mo-Su 10:00-24:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3531761,
+          48.2155028
+        ]
+      },
+      "id": "node/2373571210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390866729",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1080",
+        "addr:street": "Lammgasse",
+        "amenity": "cafe",
+        "check_date:opening_hours": "2023-09-14",
+        "internet_access": "wlan",
+        "name": "Cafe Merkur",
+        "opening_hours": "09:00-01:00",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "http://www.cafemerkur.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3519929,
+          48.2120703
+        ]
+      },
+      "id": "node/2390866729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2463089725",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "1010",
+        "addr:street": "Schottengasse",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "changing_table": "yes",
+        "changing_table:location": "wheelchair_toilet",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:30-21:00; Sa 08:00-19:00; Su 09:00-19:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3628381,
+          48.2131905
+        ]
+      },
+      "id": "node/2463089725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701970797",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "46",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "check_date:opening_hours": "2024-01-11",
+        "indoor_seating": "yes",
+        "name": "Caffe Milano",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-18:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3543914,
+          48.2217203
+        ]
+      },
+      "id": "node/2701970797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3186700562",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "contact:email": "office@jonasreindl.at",
+        "contact:website": "http://jonasreindl.at",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Jonas Reindl",
+        "opening_hours": "Mo-Fr 08:00-17:30; Sa, Su 09:30-17:30",
+        "outdoor_seating": "yes",
+        "website": "https://www.jonasreindl.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3618949,
+          48.2148553
+        ]
+      },
+      "id": "node/3186700562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3673522729",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1010",
+        "addr:street": "Schmerlingplatz",
+        "amenity": "cafe",
+        "level": "6",
+        "name": "Justizcafe",
+        "website": "https://www.justizcafe.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3576169,
+          48.2066752
+        ]
+      },
+      "id": "node/3673522729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3677811730",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "1010",
+        "addr:street": "Bellariastraße",
+        "amenity": "cafe",
+        "description": "Classical Viennese coffee with live music every Monday.",
+        "indoor_seating": "yes",
+        "name": "Café Bellaria",
+        "opening_hours": "Mo-Fr 07:30-24:00, Sa 10:00-24:00, Su 11:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 523 53 20",
+        "smoking": "outside",
+        "website": "https://www.cafebellaria.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.359135,
+          48.2060369
+        ]
+      },
+      "id": "node/3677811730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3835688358",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1010",
+        "addr:street": "Reichsratsstraße",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Café Votiv",
+        "opening_hours": "Mo-Fr 08:00-24:00; Sa 09:00-24:00; PH,Su 09:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://cafe-votiv.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3589634,
+          48.2139371
+        ]
+      },
+      "id": "node/3835688358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3935403228",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "38a",
+        "addr:postcode": "1090",
+        "addr:street": "Liechtensteinstraße",
+        "amenity": "cafe",
+        "check_date": "2023-09-27",
+        "email": "office@naschsalon.at",
+        "name": "Naschsalon",
+        "opening_hours": "Mo-Fr 7:30-19:00; Sa-Su 09:00-17:00; PH off",
+        "operator": "Astrid Karpf",
+        "phone": "+43 664 4534193",
+        "website": "https://www.naschsalon.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3604655,
+          48.2205212
+        ]
+      },
+      "id": "node/3935403228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4167787639",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7/8",
+        "addr:postcode": "1080",
+        "addr:street": "Josefstädter Straße",
+        "amenity": "cafe",
+        "name": "Coffee & Friends",
+        "opening_hours": "Mo-Sa 07:30-17:30; Su,PH 09:00-16:00",
+        "seats": "4",
+        "takeaway": "yes",
+        "website": "http://www.coffee-n-friends.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3535647,
+          48.2091787
+        ]
+      },
+      "id": "node/4167787639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4239915289",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Raimund",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 09:00-22:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3576918,
+          48.2056494
+        ]
+      },
+      "id": "node/4239915289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4433210952",
+        "addr:housenumber": "3",
+        "addr:street": "Türkenstrasse",
+        "amenity": "cafe",
+        "name": "Café Afro",
+        "phone": "+4313177322",
+        "website": "www.cafeafro.at",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3603678,
+          48.2168048
+        ]
+      },
+      "id": "node/4433210952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4467413391",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "21",
+        "addr:postcode": "1080",
+        "addr:street": "Schlösselgasse",
+        "amenity": "cafe",
+        "name": "People On Caffeine",
+        "name:de": "People On Caffeine",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "toilets:wheelchair": "no",
+        "website": "http://facebook.com/poccafe",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3529742,
+          48.2146672
+        ]
+      },
+      "id": "node/4467413391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746363496",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Coffee Spot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.352187,
+          48.2228114
+        ]
+      },
+      "id": "node/4746363496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748985824",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "email": "infocafelemarchevienna@gmail.com",
+        "internet_access": "wlan",
+        "name": "Café Le marché",
+        "opening_hours": "Mo-Fr 07:30-19:00; Sa,Su 09:00-19:00",
+        "phone": "+43 699 17156358",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3610709,
+          48.21563
+        ]
+      },
+      "id": "node/4748985824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075059286",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1070",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "contact:email": "1090@bagel1683.at",
+        "contact:facebook": "https://de-de.facebook.com/1683bagels/",
+        "contact:instagram": "https://instagram.com/1683_bagels?igshid=YmMyMTA2M2Y=",
+        "contact:website": "http://bagel1683.at",
+        "delivery": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "dish": "bagel",
+        "name": "Bagel Art 1683",
+        "opening_hours": "Mo-Su 08:00-18:30",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3599608,
+          48.2167766
+        ]
+      },
+      "id": "node/5075059286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5144438099",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1090",
+        "addr:street": "Garnisongasse",
+        "amenity": "cafe",
+        "name": "Café Telegraph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3565918,
+          48.2161128
+        ]
+      },
+      "id": "node/5144438099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5548717165",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "66",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "contact:website": "https://www.das-kafa.at",
+        "indoor_seating": "yes",
+        "name": "Das Kafa",
+        "opening_hours": "Mo-Fr 07:30-19:30; Sa 12:00-20:00",
+        "opening_hours:url": "Mo-Fr 08:00-18:00; Sa 09:00-17:00; PH off",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3521034,
+          48.2231767
+        ]
+      },
+      "id": "node/5548717165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5602134952",
+        "amenity": "cafe",
+        "name": "Uno",
+        "operator": "Johann Tiek",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3587869,
+          48.213184
+        ]
+      },
+      "id": "node/5602134952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5741176799",
+        "amenity": "cafe",
+        "cuisine": "bistro",
+        "fixme": "opening_hours - in august the clinic, the bistro are closed for a period of a few weeks.",
+        "level": "3",
+        "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-15:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35451,
+          48.2192902
+        ]
+      },
+      "id": "node/5741176799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203258385",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "31",
+        "addr:postcode": "1080",
+        "addr:street": "Lange Gasse",
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "Café Namenlos",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00",
+        "website": "https://www.cafenamenlos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3522004,
+          48.2089997
+        ]
+      },
+      "id": "node/6203258385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8908185917",
+        "addr:housenumber": "28",
+        "addr:postcode": "1090",
+        "addr:street": "Wasagasse",
+        "amenity": "cafe",
+        "cuisine": "austrian;breakfast;coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "office@aehrlich.at",
+        "name": "Ährlich",
+        "opening_hours": "We-Fr 08:00-16:30; Sa-Su 08:30-15:30",
+        "phone": "00436608119431",
+        "website": "https://aehrlich.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3593597,
+          48.2191809
+        ]
+      },
+      "id": "node/8908185917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9212350863",
+        "addr:city": "Wien",
+        "addr:housenumber": "46a",
+        "addr:postcode": "1090",
+        "addr:street": "Liechtensteinstraße",
+        "amenity": "cafe",
+        "check_date": "2022-09-26",
+        "contact:instagram": "htgoppion_caffe_vienna",
+        "description": "Italian Coffee Roaster Since 1948",
+        "name": "Goppion Caffè",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+43 1 8909352",
+        "website": "https://goppioncaffe.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3599107,
+          48.2215891
+        ]
+      },
+      "id": "node/9212350863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9413041317",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "allegro",
+        "outdoor_seating": "yes",
+        "survey:date": "2022-01-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3612306,
+          48.2200911
+        ]
+      },
+      "id": "node/9413041317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9422192892",
+        "addr:city": "Wien",
+        "addr:housenumber": "17",
+        "addr:postcode": "1090",
+        "addr:street": "Berggasse",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Cafe Freud",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+4313463693",
+        "website": "https://www.cafefreud.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3627561,
+          48.2184972
+        ]
+      },
+      "id": "node/9422192892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10013199531",
+        "amenity": "cafe",
+        "check_date": "2022-09-10",
+        "indoor_seating": "yes",
+        "name": "Enzo",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3622303,
+          48.2134136
+        ]
+      },
+      "id": "node/10013199531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10058468683",
+        "amenity": "cafe",
+        "name": "Café Maximilian",
+        "opening_hours": "Mo-Sa 08:30-23:00; Su 09:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3581012,
+          48.2146185
+        ]
+      },
+      "id": "node/10058468683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10925259189",
+        "addr:city": "Wien",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Straße",
+        "amenity": "cafe",
+        "email": "hello@nopanic.coffee",
+        "name": "No Panic Coffee",
+        "opening_hours": "Mo-Fr 07:30-19:00; Sa-Su 09:00-19:00",
+        "website": "https://www.nopanic.coffee/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3610505,
+          48.2156423
+        ]
+      },
+      "id": "node/10925259189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11388068939",
+        "addr:city": "Vienna",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1090",
+        "addr:street": "Berggasse",
+        "amenity": "cafe",
+        "contact:instagram": "cafeberg.wien",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Cafe Berg",
+        "opening_hours": "Sa, Su 09:00-15:00",
+        "phone": "+4367761688515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3608509,
+          48.217644
+        ]
+      },
+      "id": "node/11388068939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11388097169",
+        "addr:city": "Vienna",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1090",
+        "addr:street": "Berggasse",
+        "amenity": "cafe",
+        "contact:instagram": "cafeberg.wien",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Cafe Berg",
+        "opening_hours": "Sa, Su 09:00-15:00",
+        "phone": "+4367761688515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3608509,
+          48.217644
+        ]
+      },
+      "id": "node/11388097169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11480601969",
+        "addr:housenumber": "25",
+        "addr:postcode": "1090",
+        "addr:street": "Berggasse",
+        "amenity": "cafe",
+        "cuisine": "french",
+        "name": "La Mercerie",
+        "opening_hours": "Mo-Sa 08:30-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3644256,
+          48.2191161
+        ]
+      },
+      "id": "node/11480601969"
+    }
+  ]
+}
